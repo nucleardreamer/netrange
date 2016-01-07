@@ -15,7 +15,7 @@ function ipToHex (ip) {
     .map(d => {
       var hex = Number(d).toString(16)
       while (hex.length < 2) hex = '0' + hex
-      return hex;
+      return hex
     })
   ).join(''))
 }
