@@ -1,14 +1,14 @@
 {
-  "name":           "netrange",
-  "version":        "0.0.2",
-  "description":    "get a range of ips",
+  "name": "netrange",
+  "version": "0.0.2",
+  "description": "get a range of ips",
   "repository": {
-    "type":         "git",
-    "url":          "https://github.com/nucleardreamer/netrange"
+    "type": "git",
+    "url": "https://github.com/nucleardreamer/netrange"
   },
   "author": {
-    "name":         "Flynn Joffray",
-    "email":        "nucleardreamer@gmail.com"
+    "name": "Flynn Joffray",
+    "email": "nucleardreamer@gmail.com"
   },
   "contributors": [
     {
@@ -20,7 +20,7 @@
       "url": "https://github.com/reqshark"
     }
   ],
-  "license":        "MIT",
+  "license": "AGPLv3",
   "keywords": [
     "netmask",
     "ip",
